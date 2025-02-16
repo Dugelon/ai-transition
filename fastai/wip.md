@@ -1,6 +1,9 @@
 
 https://www.kaggle.com/code/
 
+https://jupyter.org/
+
+
 Ou en local
 
 ```
