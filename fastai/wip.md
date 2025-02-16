@@ -3,6 +3,8 @@ https://www.kaggle.com/code/
 
 https://jupyter.org/
 
+https://fastai.github.io/fastbook2e/
+
 
 Ou en local
 
