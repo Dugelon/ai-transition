@@ -5,6 +5,8 @@ https://jupyter.org/
 
 https://fastai.github.io/fastbook2e/
 
+https://trello.com/
+
 
 Ou en local
 
