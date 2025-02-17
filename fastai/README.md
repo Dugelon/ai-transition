@@ -1,10 +1,12 @@
-https://course.fast.ai/
+Fastai course https://course.fast.ai/
 
-https://www.kaggle.com/code/
+Questions sur les chapitres du book : https://aiquizzes.com/
 
-https://jupyter.org/
+Book (Notebook) https://fastai.github.io/fastbook2e/
 
-https://fastai.github.io/fastbook2e/
+Exercise/Pratice https://www.kaggle.com/code/
+
+Emulator https://jupyter.org/
 
 https://trello.com/
 
