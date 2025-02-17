@@ -1,6 +1,9 @@
+# Resources
+
 Fastai course https://course.fast.ai/
 
 Forum fastai : https://forums.fast.ai/t/lesson-1-official-topic/95287
+
 Questions sur les chapitres du book : https://aiquizzes.com/
 
 Book (Notebook) https://fastai.github.io/fastbook2e/
@@ -12,7 +15,11 @@ Emulator https://jupyter.org/
 https://trello.com/
 
 
-Ou en local
+# Tools
+
+Grabio
+
+Jupyter
 
 ```
 python3.9 -m pip install --upgrade pip
