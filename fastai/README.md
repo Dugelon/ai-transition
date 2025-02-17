@@ -1,3 +1,4 @@
+https://course.fast.ai/
 
 https://www.kaggle.com/code/
 
