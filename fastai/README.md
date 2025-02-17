@@ -25,7 +25,7 @@ https://trello.com/
 
 Colab + Kaggle for free GPU resources
 
-Gradio.app
+Gradio.app in Hugging face Spaces
 
 Jupyter
 
