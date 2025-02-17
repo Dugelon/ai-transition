@@ -25,7 +25,7 @@ https://trello.com/
 
 Colab + Kaggle for free GPU resources
 
-Grabio
+Gradio.app
 
 Jupyter
 
