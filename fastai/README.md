@@ -20,6 +20,7 @@ pip install duckduckgo_search
 pip install fastcore
 pip install fastdownload
 pip install fastai
+pip install jupyter
 jupyter notebook
 ```
 
