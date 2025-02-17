@@ -8,6 +8,8 @@ Fastai course https://course.fast.ai/
 
 Forum fastai : https://forums.fast.ai/t/lesson-1-official-topic/95287
 
+Doc librairy fastai : https://docs.fast.ai/
+
 Questions sur les chapitres du book : https://aiquizzes.com/
 
 Book (Notebook) https://fastai.github.io/fastbook2e/
