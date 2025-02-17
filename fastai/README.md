@@ -1,12 +1,14 @@
-# Setup
+# Divers
 
-https://github.com/AnswerDotAI/fastsetup
+https://dugelon.github.io/tinypets/
 
 # Resources
 
 Fastai course https://course.fast.ai/
 
 Forum fastai : https://forums.fast.ai/t/lesson-1-official-topic/95287
+
+Fastsetup : https://github.com/AnswerDotAI/fastsetup
 
 Doc librairy fastai : https://docs.fast.ai/
 
