@@ -1,3 +1,7 @@
+# Setup
+
+https://github.com/AnswerDotAI/fastsetup
+
 # Resources
 
 Fastai course https://course.fast.ai/
