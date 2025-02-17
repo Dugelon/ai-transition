@@ -27,6 +27,8 @@ Colab + Kaggle for free GPU resources
 
 Gradio.app in Hugging face Spaces
 
+GitHub pages for simple website  <-> fastpages setup-instructions : https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html#Setting-Up-Fastpages
+
 Jupyter
 
 ```
