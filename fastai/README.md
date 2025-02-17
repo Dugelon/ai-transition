@@ -17,7 +17,7 @@ https://trello.com/
 
 # Tools
 
-Colab
+Colab + Kaggle for free GPU resources
 
 Grabio
 
