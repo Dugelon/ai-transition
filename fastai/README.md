@@ -18,6 +18,8 @@ Book (Notebook) https://fastai.github.io/fastbook2e/
 
 Book (Only the codes) : https://github.com/fastai/fastbook/tree/master/clean
 
+Kaggle Notebooks Howard : https://www.kaggle.com/search?q=jeremy+howard+in%3Anotebooks
+
 Exercise/Pratice https://www.kaggle.com/code/
 
 Emulator https://jupyter.org/
