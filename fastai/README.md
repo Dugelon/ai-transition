@@ -16,6 +16,8 @@ Questions sur les chapitres du book : https://aiquizzes.com/
 
 Book (Notebook) https://fastai.github.io/fastbook2e/
 
+Book (Only the codes) : https://github.com/fastai/fastbook/tree/master/clean
+
 Exercise/Pratice https://www.kaggle.com/code/
 
 Emulator https://jupyter.org/
