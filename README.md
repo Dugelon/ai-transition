@@ -8,7 +8,7 @@
 ### **4️⃣ Apprentissage des bases des LLMs (4-6 semaines)**
 - [ ] **DeepLearning.AI - ChatGPT Prompt Engineering** : [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
 - [ ] **DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)  
-- [ ] **Hugging Face - LLM Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)  
+- [ ] **Hugging Face - LLM/NLP  Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)  
 
 ### **5️⃣ Formation sur les Agents IA (4-6 semaines)**
 - [ ] **Hugging Face - Agents Course** : [https://huggingface.co/learn/agents-course/unit0/introduction](https://huggingface.co/learn/agents-course/unit0/introduction)  
