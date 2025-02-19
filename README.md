@@ -3,39 +3,6 @@
 
 ---
 
-## **🏗️ INFRASTRUCTURE TECHNIQUE POUR AGENTS IA**  
-### **1️⃣ Environnement de développement**
-- [ ] **Installer Python 3.10+**  
-- [ ] **Configurer VSCode avec extensions IA**  
-- [ ] **Utiliser un gestionnaire d'environnements (conda/venv)**  
-- [ ] **Option : Utiliser un environnement cloud pour éviter une installation locale** *(si matériel limité)*  
-  - ✅ **Google Colab** : [https://colab.research.google.com/](https://colab.research.google.com/) *(Exécuter des notebooks avec GPU limité)*  
-  - ✅ **Kaggle Notebooks** : [https://www.kaggle.com/code](https://www.kaggle.com/code) *(Gratuit avec GPU sur demande)*  
-  - ✅ **Paperspace Gradient** : [https://gradient.run/](https://gradient.run/) *(GPU gratuits, meilleure gestion des pipelines IA que Colab/Kaggle)*  
-
----
-
-### **2️⃣ Infrastructure d'exécution**
-- [ ] **Déployer un serveur dédié ou cloud (16GB RAM min)**  
-- [ ] **Configurer un GPU pour inférence rapide (RTX 4090, A100, T4)**  
-- [ ] **Mettre en place un environnement containerisé pour agents (Docker, Kubernetes)**  
-- [ ] **Alternatives gratuites pour héberger et exécuter des modèles IA** *(si pas de serveur local)* :  
-  - ✅ **Hugging Face Spaces** : [https://huggingface.co/spaces](https://huggingface.co/spaces) *(Héberge gratuitement des modèles et apps IA - Streamlit, Gradio)*  
-  - ✅ **Gradio.app** : [https://www.gradio.app/](https://www.gradio.app/) *(Créer des interfaces web pour tester des agents IA sans backend complexe)*  
-  - ✅ **GitHub Pages + Actions** : [https://pages.github.com/](https://pages.github.com/) *(Déployer gratuitement des interfaces simples d'agents IA)*  
-
----
-
-### **3️⃣ Outils de monitoring agents**
-- [ ] **Configurer Prometheus + Grafana pour collecter les métriques**  
-- [ ] **Installer un système de logging distribué (ELK, Loki)**  
-- [ ] **Créer un dashboard de supervision pour agents IA**  
-- [ ] **Alternatives gratuites pour le suivi des expériences IA** :  
-  - ✅ **Weights & Biases (W&B)** : [https://wandb.ai/site](https://wandb.ai/site) *(Gratuit pour usage individuel, permet de suivre les runs de modèles)*  
-  - ✅ **Streamlit pour logs & visualisation live** : [https://streamlit.io/](https://streamlit.io/) *(Permet de suivre l'évolution des modèles en temps réel)*  
-
----
-
 ## 📚 **FORMATION FONDAMENTALE SUR LES AGENTS IA**  
 
 ### **4️⃣ Apprentissage des bases des LLMs (4-6 semaines)**
@@ -84,5 +51,38 @@
 ### **Orchestration**
 - **Ray** : [https://www.ray.io/](https://www.ray.io/)  
 - **Kubernetes** : [https://kubernetes.io/docs/home/](https://kubernetes.io/docs/home/)  
+
+---
+
+## **🏗️ INFRASTRUCTURE TECHNIQUE POUR AGENTS IA**  
+### **1️⃣ Environnement de développement**
+- [ ] **Installer Python 3.10+**  
+- [ ] **Configurer VSCode avec extensions IA**  
+- [ ] **Utiliser un gestionnaire d'environnements (conda/venv)**  
+- [ ] **Option : Utiliser un environnement cloud pour éviter une installation locale** *(si matériel limité)*  
+  - ✅ **Google Colab** : [https://colab.research.google.com/](https://colab.research.google.com/) *(Exécuter des notebooks avec GPU limité)*  
+  - ✅ **Kaggle Notebooks** : [https://www.kaggle.com/code](https://www.kaggle.com/code) *(Gratuit avec GPU sur demande)*  
+  - ✅ **Paperspace Gradient** : [https://gradient.run/](https://gradient.run/) *(GPU gratuits, meilleure gestion des pipelines IA que Colab/Kaggle)*  
+
+---
+
+### **2️⃣ Infrastructure d'exécution**
+- [ ] **Déployer un serveur dédié ou cloud (16GB RAM min)**  
+- [ ] **Configurer un GPU pour inférence rapide (RTX 4090, A100, T4)**  
+- [ ] **Mettre en place un environnement containerisé pour agents (Docker, Kubernetes)**  
+- [ ] **Alternatives gratuites pour héberger et exécuter des modèles IA** *(si pas de serveur local)* :  
+  - ✅ **Hugging Face Spaces** : [https://huggingface.co/spaces](https://huggingface.co/spaces) *(Héberge gratuitement des modèles et apps IA - Streamlit, Gradio)*  
+  - ✅ **Gradio.app** : [https://www.gradio.app/](https://www.gradio.app/) *(Créer des interfaces web pour tester des agents IA sans backend complexe)*  
+  - ✅ **GitHub Pages + Actions** : [https://pages.github.com/](https://pages.github.com/) *(Déployer gratuitement des interfaces simples d'agents IA)*  
+
+---
+
+### **3️⃣ Outils de monitoring agents**
+- [ ] **Configurer Prometheus + Grafana pour collecter les métriques**  
+- [ ] **Installer un système de logging distribué (ELK, Loki)**  
+- [ ] **Créer un dashboard de supervision pour agents IA**  
+- [ ] **Alternatives gratuites pour le suivi des expériences IA** :  
+  - ✅ **Weights & Biases (W&B)** : [https://wandb.ai/site](https://wandb.ai/site) *(Gratuit pour usage individuel, permet de suivre les runs de modèles)*  
+  - ✅ **Streamlit pour logs & visualisation live** : [https://streamlit.io/](https://streamlit.io/) *(Permet de suivre l'évolution des modèles en temps réel)*  
 
 ---
