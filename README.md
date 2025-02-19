@@ -2,7 +2,7 @@
 **Objectif** : Concevoir, développer et industrialiser des **agents IA autonomes** et **systèmes multi-agents**. Cette roadmap suit un **séquencement clair et progressif**, en mettant l'accent sur les **meilleures pratiques, frameworks et ressources disponibles**.  
 
 ---
-# **🟢 LISTE 1: BACKLOG PRIORITAIRE**  
+
 ## **🏗️ INFRASTRUCTURE TECHNIQUE POUR AGENTS IA**  
 ### **1️⃣ Environnement de développement**
 - [ ] **Installer Python 3.10+**  
@@ -20,6 +20,7 @@
 - [ ] **Créer un dashboard de supervision pour agents IA**  
 
 ---
+
 ## 📚 FORMATION FONDAMENTALE SUR LES AGENTS IA
 
 ### 4️⃣ Apprentissage des bases des LLMs (4-6 semaines)
@@ -76,7 +77,7 @@
 
 ---
 
-# **📌 LISTE 4: FRAMEWORKS & RESSOURCES**
+# **📌 FRAMEWORKS & RESSOURCES**
 ### **Frameworks Agents IA**
 - **LangChain** : [https://python.langchain.com/docs/](https://python.langchain.com/docs/)  
 - **CrewAI** : [https://crewai.io/docs/getting-started](https://crewai.io/docs/getting-started)  
