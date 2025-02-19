@@ -3,6 +3,12 @@
 
 ---
 
+## **📚 FORMATION FONDAMENTALE SUR LES AGENTS IA**  
+### **5️⃣ Apprentissage des bases des LLMs (4-6 semaines)**
+- [ ] **DeepLearning.AI - ChatGPT Prompt Engineering** : [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
+- [ ] **DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)  
+- [ ] **Hugging Face - LLM Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)  
+
 ## **🏗️ INFRASTRUCTURE TECHNIQUE POUR AGENTS IA**  
 ### **1️⃣ Environnement de développement**
 - [ ] **Utiliser un environnement Cloud gratuit** :  
@@ -49,14 +55,6 @@
 
 ---
 
-## **📚 FORMATION FONDAMENTALE SUR LES AGENTS IA**  
-### **5️⃣ Apprentissage des bases des LLMs (4-6 semaines)**
-- [ ] **DeepLearning.AI - ChatGPT Prompt Engineering** : [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
-- [ ] **DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)  
-- [ ] **Hugging Face - LLM Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)  
-
----
-
 ## **📌 FRAMEWORKS & RESSOURCES**
 ### **Frameworks Agents IA**
 - **LangChain** : [https://python.langchain.com/docs/](https://python.langchain.com/docs/)  
@@ -74,3 +72,4 @@
 - **Kubernetes** : [https://kubernetes.io/docs/home/](https://kubernetes.io/docs/home/)  
 
 ---
+
