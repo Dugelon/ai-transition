@@ -2,16 +2,6 @@
 **Objectif** : Concevoir, développer et industrialiser des **agents IA autonomes** et **systèmes multi-agents**. Cette roadmap suit un **séquencement clair et progressif**, en mettant l'accent sur les **meilleures pratiques, frameworks et ressources disponibles**.  
 
 ---
-
-## **📌 STRUCTURE DU KANBAN (TRELLO)**  
-💡 **Colonnes Trello** pour organiser les tâches :  
-1. **📥 Backlog** → Tâches à prioriser.  
-2. **🔄 En cours** → Tâches en cours d’exécution.  
-3. **✅ Terminé** → Tâches complétées.  
-4. **🛠️ Outils & Ressources** → Liens vers formations, frameworks et articles utiles.  
-
----
-
 # **🟢 LISTE 1: BACKLOG PRIORITAIRE**  
 ## **🏗️ INFRASTRUCTURE TECHNIQUE POUR AGENTS IA**  
 ### **1️⃣ Environnement de développement**
@@ -103,5 +93,3 @@
 - **Kubernetes** : [https://kubernetes.io/docs/home/](https://kubernetes.io/docs/home/)  
 
 ---
-
-🚀 **Cette roadmap ultra-complète vous permettra de passer de zéro à expert en agents IA autonomes et en orchestration multi-agents.** **Prêt à l’importer sur Trello ?** 😊
