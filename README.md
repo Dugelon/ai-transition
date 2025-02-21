@@ -11,7 +11,8 @@
 - [ ] **Hugging Face - LLM/NLP  Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)  
 
 ### **5️⃣ Formation sur les Agents IA (4-6 semaines)**
-- [ ] **Hugging Face - Agents Course** : [https://huggingface.co/learn/agents-course/unit0/introduction](https://huggingface.co/learn/agents-course/unit0/introduction)  
+- [ ] **Hugging Face - Agents Course** : [https://huggingface.co/learn/agents-course/unit0/introduction](https://huggingface.co/learn/agents-course/unit0/introduction)
+- [ ] ** Hugging Fac - Fine tuning your model for function calling : https://huggingface.co/learn/agents-course/bonus-unit1/introduction
 - [ ] **DeepLearning.AI - Functions, Tools & Agents** : [https://www.deeplearning.ai/short-courses/functions-tools-and-agents-with-langchain/](https://www.deeplearning.ai/short-courses/functions-tools-and-agents-with-langchain/)  
 - [ ] **Microsoft - Autonomous AI Agents Course** : [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)  
 - [ ] **AutoGPT Documentation** : [https://github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)  
