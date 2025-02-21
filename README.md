@@ -5,13 +5,12 @@
 
 ## 📚 **FORMATION FONDAMENTALE SUR LES AGENTS IA**  
 
-### **4️⃣ Apprentissage des bases des LLMs (4-6 semaines)**
-- [ ] **DeepLearning.AI - ChatGPT Prompt Engineering** : [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
-- [ ] **DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)  
-- [ ] **Hugging Face - LLM/NLP  Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)  
-
-### **5️⃣ Formation sur les Agents IA (4-6 semaines)**
-- [ ] **Hugging Face - Agents Course** : [https://huggingface.co/learn/agents-course/unit0/introduction](https://huggingface.co/learn/agents-course/unit0/introduction)
+### **4️⃣ Apprentissage des bases des LLMs et des agents (4-6 semaines)**
+- [1] **DeepLearning.AI - ChatGPT Prompt Engineering** : [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [2] **Hugging Face - Agents Course** : [https://huggingface.co/learn/agents-course/unit0/introduction](https://huggingface.co/learn/agents-course/unit0/introduction)
+- [3] **Hugging Face - LLM/NLP  Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)
+  
+- [ ] **DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)    
 - [ ] **Hugging Fac - Fine tuning your model for function calling : https://huggingface.co/learn/agents-course/bonus-unit1/introduction
 - [ ] **DeepLearning.AI - Functions, Tools & Agents** : [https://www.deeplearning.ai/short-courses/functions-tools-and-agents-with-langchain/](https://www.deeplearning.ai/short-courses/functions-tools-and-agents-with-langchain/)  
 - [ ] **Microsoft - Autonomous AI Agents Course** : [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)  
