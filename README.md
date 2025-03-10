@@ -3,15 +3,18 @@
 
 ---
 
-## 📚 **FORMATION FONDAMENTALE SUR LES AGENTS IA**  
+## 📚 **FORMATION FONDAMENTALE SUR LES LLM et AGENTS**  
 
-### **4️⃣ Apprentissage des bases des LLMs et des agents (4-6 semaines)**
+### **4️⃣ Apprentissage des bases des LLMs et des Agents (4-6 semaines)**
 - [ ] **1 - DeepLearning.AI - ChatGPT Prompt Engineering** : [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [ ] **2 - Hugging Face - Agents Course** : [https://huggingface.co/learn/agents-course/unit0/introduction](https://huggingface.co/learn/agents-course/unit0/introduction)
 - [ ] **3 - Hugging Face - LLM/NLP  Course** : [https://huggingface.co/learn/nlp-course/](https://huggingface.co/learn/nlp-course/)
-- [ ] **4 - DeepLearning.AI  Natural Language Processing Specialization** : https://www.deeplearning.ai/courses/natural-language-processing-specialization/ 
+- [ ] **4 - DeepLearning.AI  Natural Language Processing Specialization** : https://www.deeplearning.ai/courses/natural-language-processing-specialization/
+- [ ] **5 - Multi AI Agent Systems with crewAI** : https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction
+- [ ] **6 - Practical Multi AI Agents and Advanced Use Cases with crewAI** : https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/lesson/agfnp/introduction
+- [ ] **7 - Event-Driven Agentic Document Workflows** : https://learn.deeplearning.ai/courses/event-driven-agentic-document-workflows/lesson/wxpss/introduction
 
-- [ ] **5 - DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [ ] **DeepLearning.AI - LangChain for LLM Applications** : [https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 - [ ] **Hugging Fac - Fine tuning your model for function calling :** https://huggingface.co/learn/agents-course/bonus-unit1/introduction
 - [ ] **DeepLearning.AI - Functions, Tools & Agents** : [https://www.deeplearning.ai/short-courses/functions-tools-and-agents-with-langchain/](https://www.deeplearning.ai/short-courses/functions-tools-and-agents-with-langchain/)  
 - [ ] **Microsoft - Autonomous AI Agents Course** : [https://microsoft.github.io/autogen/](https://microsoft.github.io/autogen/)  
